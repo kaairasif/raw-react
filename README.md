@@ -4,8 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
  <p align="center">
-    
-    <h3 align="center ">In this project, Use raw react and vanilla js without a build tool.</h3>
+    In this project, Use raw react and vanilla js without a build tool.
 </p>
 
 <!-- TABLE OF CONTENTS -->
